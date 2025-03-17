@@ -1,5 +1,5 @@
 {
-  "name": "@smartbear/fake-ap",
+  "name": "@arielpartners/fake-ap",
   "version": "3.0.1",
   "description": "A fake AP module to help develop and test Atlassian Connect applications.",
   "homepage": "https://github.com/SmartBear/fake-ap",
